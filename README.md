@@ -36,8 +36,8 @@
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/abukalam51213)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://https://www.facebook.com/share/1KPyz9pPTd/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]
+https://www.facebook.com/share/1KPyz9pPTd/
 ---
 
 ✨ *Smart learning • Strong basics • Steady growth*
