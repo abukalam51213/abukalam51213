@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Md. Abu Kalam
 
-🎓 **Student** | 💻 **Programming Learner** | 📘 **Tech Explorer**
+🎓 **Computer Science Student** | 💡 **Smart Learner** | 🤖 **AI & Tech Explorer**
 
 ---
 
-## 📚 About Me
-- 🎓 I'm a student passionate about **learning computer science**
-- 💡 Currently studying **Programming, AI & Web Technologies**
-- 🧠 I enjoy learning topics in a **simple and step-by-step way**
+## 🧠 About Me
+- 🎓 Passionate about learning **core Computer Science subjects**
+- 💻 Interested in **Programming, AI, and Web Technologies**
+- 📘 Prefer **simple, clear, and step-by-step learning**
 - 🚀 Goal: Build strong fundamentals and real-world projects
 
 ---
 
-## 🧪 What I'm Learning Now
-- 🔹 Programming Concepts  
-- 🔹 Artificial Intelligence (Basics)  
-- 🔹 Web Development  
-- 🔹 Databases (MySQL)
+## 🔍 Currently Learning
+- 🧩 Problem Solving & Logic  
+- 🤖 Artificial Intelligence (Basics)  
+- 🌐 Web Development  
+- 🗄️ Database Systems (MySQL)
 
 ---
 
-## 🛠️ Skills (Learning Level)
+## 🛠️ Tech Stack
 - 💻 Languages: C, C++, Python, PHP  
 - 🌐 Web: HTML, CSS, JavaScript  
 - 🗄️ Database: MySQL  
@@ -29,20 +29,15 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abukalam51213&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abukalam51213&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abukalam51213&layout=compact)
 
 ---
 
-## 🎯 Learning Goals
-- ✔️ Improve problem-solving skills  
-- ✔️ Build small academic projects  
-- ✔️ Understand core CS subjects clearly  
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/abukalam51213)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your.username)
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/abukalam51213
-
----
-
-⭐ *Learning every day, one step at a time.*
+✨ *Smart learning • Strong basics • Steady growth*
