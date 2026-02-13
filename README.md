@@ -1,15 +1,48 @@
-# Hi there 👋
+# 👋 Hi, I'm Md. Abu Kalam
 
-**abukalam51213/abukalam51213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** | 💻 **Programming Learner** | 📘 **Tech Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📚 About Me
+- 🎓 I'm a student passionate about **learning computer science**
+- 💡 Currently studying **Programming, AI & Web Technologies**
+- 🧠 I enjoy learning topics in a **simple and step-by-step way**
+- 🚀 Goal: Build strong fundamentals and real-world projects
 
+---
+
+## 🧪 What I'm Learning Now
+- 🔹 Programming Concepts  
+- 🔹 Artificial Intelligence (Basics)  
+- 🔹 Web Development  
+- 🔹 Databases (MySQL)
+
+---
+
+## 🛠️ Skills (Learning Level)
+- 💻 Languages: C, C++, Python, PHP  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 🗄️ Database: MySQL  
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abukalam51213&show_icons=true&theme=default)
+
+---
+
+## 🎯 Learning Goals
+- ✔️ Improve problem-solving skills  
+- ✔️ Build small academic projects  
+- ✔️ Understand core CS subjects clearly  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/abukalam51213
+
+---
+
+⭐ *Learning every day, one step at a time.*
